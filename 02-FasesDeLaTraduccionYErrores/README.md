@@ -3,23 +3,11 @@
 ## Indice
 
 - [1- Preprocesador](#preprocesador)
-    - [Hello2.c](#hello2.c)
-    - [Hello3.c](#hello3.c)
 - [2- Compilación](#compilacion)
-    - [Hello3.s](#hello3.s)
-    - [Hello4.c](#hello4.c)
 - [3- Vinculación](#vinculacion)
-    - [Hello4.exe](#hello4.exe)
-    - [Hello5.c](#hello5.c)
 - [4- Corrección de Bug](#correcciondebug)
-    - [Hello6.c](#hello6.c)
 - [5- Remoción de prototipo](#remociondeprototipo)
-    - [Hello7.c](#hello7.c)
 - [6- Compilación Separada: Contratos y Módulos](#compilacion)
-    - [Hello8.c](#hello8.c)
-    - [studio1.c](#studio1.c)
-    - [Hello9.c](#hello9.c)
-    - [studio2.c](#studio2.c)
 - [Crédito Extra](#extra)
 
 # Secuencia de Pasos
