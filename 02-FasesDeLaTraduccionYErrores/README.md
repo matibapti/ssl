@@ -3,6 +3,7 @@
 ## Indice
 
 - [1- Preprocesador](#preprocesador)
+- -[1- Preprocesador](#preprocesador)
 - [2- Compilación](#compilacion)
 - [3- Vinculación](#vinculacion)
 - [4- Corrección de Bug](#correcciondebug)
@@ -13,6 +14,8 @@
 # Secuencia de Pasos
 
 ## 1- Preprocesador
+
+#hello2.c
 
 a) Se escribió hello2.c, que es una variante de hello.c.
 
